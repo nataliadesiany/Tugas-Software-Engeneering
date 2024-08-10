@@ -21,9 +21,10 @@ Ketik command dibawah ini pada terminal: <br>
 cd (nama folder save) <br>
 contoh:
 cd softeng
-
+<br>
 Setelah itu, ketik command berikut pada terminal: <br>
 npm run dev <br>
+<br>
 Kemudian, buka browser dan kunjungi http://localhost:3000 untuk melihat website.
 </div>
 <br>
