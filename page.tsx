@@ -21,11 +21,11 @@ const Home = () => {
         </h4>
         <h5 className="text-black text-center font-semibold p-2 md:text-2xl  text-justify px-40"> Kontak Diri
         </h5>
-          <p className="text-black">Nomor Telepon: 085810800178
+          <p className="text-black text-2xl">Nomor Telepon: 085810800178
           </p>
-          <p className="text-black">Email: nataliadesianyy@gmail.com
+          <p className="text-black text-2xl">Email: nataliadesianyy@gmail.com
           </p>
-          <p className="text-black">
+          <p className="text-black sm:text-2xl">
             <a href="https://linkedin.com/in/natalia-desiany-nursimin-443b60269/" className="text-blue-300 hover:underline">LinkedIn Profile</a>
           </p>
       </div>
