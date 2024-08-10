@@ -11,7 +11,7 @@ B. Teknologi yang digunakan
 2. HTML <br>
 3. CSS <br>
 4. JavaScript <br>
-5. Git  
+5. VS Code
 </div>
 <br>
 
