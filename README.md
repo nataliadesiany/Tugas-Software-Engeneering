@@ -29,13 +29,13 @@ npm run dev <br>
 
 D. Status bonus
 <div style="text-align: justify">
-Deplyoment, tampilan yang responsif dan penggunaan basis data atau CMS : tidak mengerjakan
+Deployment, tampilan yang responsif dan penggunaan basis data atau CMS : tidak mengerjakan
 </div>
 <br>
 
 E. Kesulitan yand dihadapi
 <div style="text-align: justify">
-Kesulitan dalam menggunakan next.js karena ini merupakan pertama kalinya saya menggunakan tool tersebut, sehingga saya masih merasa kebingungan dalam beberapa hal. Hal-hal ini terutana dalam mengatur tampilan kalimat, seperti font dan margin agar desain portofolio sesuai dengan yang diingankan.
+Kesulitan dalam menggunakan next.js karena ini merupakan pertama kalinya saya menggunakan tool tersebut, sehingga saya masih merasa kebingungan dalam beberapa hal. Hal-hal ini terutana dalam mengatur tampilan kalimat, seperti font dan margin agar desain portofolio sesuai dengan yang diinginkan.
 </div>
 <br>
 
