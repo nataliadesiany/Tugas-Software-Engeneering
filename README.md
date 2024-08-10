@@ -7,30 +7,30 @@ Projek ini merupakan sebuah tugas pembuatan website portofolio pribadi. Portofol
 
 B. Teknologi yang digunakan
 <div style="text-align: justify">
-- Next.js
-- HTML
-- CSS
-- JavaScript
-- Git 
+1. Next.js <br>
+2. HTML <br>
+3. CSS <br>
+4. JavaScript <br>
+5. Git  
 </div>
 <br>
 
 C. Cara menjalankan program
 <div style="text-align: justify">
-Cara menjalankan : ketik command dibawah ini pada terminal <br>
+Ketik command dibawah ini pada terminal: <br>
 cd (nama folder save) <br>
 contoh:
 cd softeng
 
 Setelah itu, ketik command berikut pada terminal: <br>
-npm run dev
+npm run dev <br>
 Kemudian, buka browser dan kunjungi http://localhost:3000 untuk melihat website.
 </div>
 <br>
 
 D. Status bonus
 <div style="text-align: justify">
-Deplyoment, tampilan yang resonsif dan penggunaan basis data atau CMS = tidak mengerjakan
+Deplyoment, tampilan yang responsif dan penggunaan basis data atau CMS : tidak mengerjakan
 </div>
 <br>
 
@@ -42,7 +42,7 @@ Kesulitan dalam menggunakan next.js karena ini merupakan pertama kalinya saya me
 
 F. Identitas pembuat
 <div style="text-align: justify">
-Natalia Desiany Nursimin
-19623204
+Natalia Desiany Nursimin <br>
+19623204 <br>
 KLAN W 
 </div>
