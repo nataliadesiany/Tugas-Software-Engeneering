@@ -2,7 +2,7 @@
 
 A. Penjelasan singkat
 <div style="text-align: justify">
-Projek ini merupakan sebuah tugas pembuatan website portofolio pribadi. Portofolio pribadi yang dibuat menampilkan beberapa hal, seperti profil diri, penjelasan singkat mengenai diri, minat dan bakat, serta kontak diri. Selain itu, website portofolio pribadi ini juga mencakup informasi mengenai proyek-proyek yang telah saya kerjakan dan pencapaian-pencapaian yang pernah diraih. </div>
+Projek ini merupakan sebuah tugas pembuatan website portofolio pribadi. Portofolio yang dibuat menampilkan beberapa informasi penting, seperti profil diri yang berisikan nama dan foto diri, penjelasan singkat mengenai diri, minat dan bakat, serta kontak diri. Selain itu, website portofolio pribadi ini juga mencakup informasi mengenai proyek-proyek yang telah saya kerjakan dan pencapaian-pencapaian yang telah diraih. </div>
 <br>
 
 B. Teknologi yang digunakan
@@ -35,7 +35,7 @@ Deployment, tampilan yang responsif dan penggunaan basis data atau CMS : tidak m
 
 E. Kesulitan yand dihadapi
 <div style="text-align: justify">
-Kesulitan dalam menggunakan next.js karena ini merupakan pertama kalinya saya menggunakan tool tersebut, sehingga saya masih merasa kebingungan dalam beberapa hal. Hal-hal ini terutana dalam mengatur tampilan kalimat, seperti font dan margin agar desain portofolio sesuai dengan yang diinginkan.
+Saya mengalami kesulitan dalam menggunakan next.js karena ini adalah pertama kalinya saya menggunakan tool tersebut. Oleh karena itu, saya masih merasa kebingungan dalam beberapa aspek, terutama dalam mengatur tampilan teks, seperti font dan margin, agar desain portofolio sesuai dengan yang diinginkan.
 </div>
 <br>
 
