@@ -3,7 +3,7 @@
 A. Penjelasan singkat
 <div style="text-align: justify">
 Projek ini merupakan sebuah tugas pembuatan website portofolio pribadi. Portofolio pribadi yang dibuat menampilkan beberapa hal, seperti profil diri, penjelasan singkat mengenai diri, minat dan bakat, serta kontak diri. Selain itu, website portofolio pribadi ini juga mencakup informasi mengenai proyek-proyek yang telah saya kerjakan dan pencapaian-pencapaian yang pernah diraih. </div>
-
+<br>
 
 B. Teknologi yang digunakan
 <div style="text-align: justify">
@@ -13,6 +13,7 @@ B. Teknologi yang digunakan
 - JavaScript
 - Git 
 </div>
+<br>
 
 C. Cara menjalankan program
 <div style="text-align: justify">
@@ -25,16 +26,19 @@ Setelah itu, ketik command berikut pada terminal: <br>
 npm run dev
 Kemudian, buka browser dan kunjungi http://localhost:3000 untuk melihat website.
 </div>
+<br>
 
 D. Status bonus
 <div style="text-align: justify">
 Deplyoment, tampilan yang resonsif dan penggunaan basis data atau CMS = tidak mengerjakan
 </div>
+<br>
 
 E. Kesulitan yand dihadapi
 <div style="text-align: justify">
 Kesulitan dalam menggunakan next.js karena ini merupakan pertama kalinya saya menggunakan tool tersebut, sehingga saya masih merasa kebingungan dalam beberapa hal. Hal-hal ini terutana dalam mengatur tampilan kalimat, seperti font dan margin agar desain portofolio sesuai dengan yang diingankan.
 </div>
+<br>
 
 F. Identitas pembuat
 <div style="text-align: justify">
